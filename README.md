@@ -33,11 +33,13 @@ He is a 12 Year old vibe coder. Hes all talk and cant code :/
 
 We discovered a vulnerability in his server that allowed us to extract the full server files and database. 
 
-Since he is hosted on **TabbyCluster**, we had to be careful. Per our Acceptable Use Policy (AUP), 
-we do not have direct access to customer servers or files. 
-Because of this, we had to approach it by identifying and using a vulnerability present in his specific setup.
-I discovered a vulnerability in an outdated pkg running on his server.
-Due to improper configuration, it allowed us to bypass authentication and pull his full server files and database. ( we only had read only perms /ᐠ ◞ ᆺ ◟マ )
+Since he is hosted on TabbyCluster, we had to be careful. Per our Acceptable Use Policy (AUP), we do not have direct access to customer servers or files. Because of this, we had to approach it by identifying and using a vulnerability present in his specific setup.
+
+I discovered a vulnerability in an outdated pkg running on his server. Due to improper configuration, it allowed us to bypass authentication and pull his full server files and database. 
+
+> **Note:** We only had read-only permissions. /ᐠ ◞ ᆺ ◟マ
+
+---
 ---
 
 ## Our Message
